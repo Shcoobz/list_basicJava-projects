@@ -1,6 +1,6 @@
 ## basicJava
 
-<table style="width:200%; table-layout:fixed;">
+<table style="width:100%; table-layout:fixed;">
   <tr>
     <th style="text-align:center;">Project Name</th>
     <th style="text-align:center;">Image</th>
